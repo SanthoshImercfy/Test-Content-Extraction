@@ -1,0 +1,123 @@
+Choose the Correct Answer
+{ques}When an object is heated, the molecules that make up the object
+{option}a. begin to move faster
+{option}b. lose energy
+{option}c. become heavier
+{option}d. become lighter
+{ans}a. begin to move faster
+{next}
+
+{ques}The unit of heat is
+{option}a. newton
+{option}b. joule
+{option}c. volt
+{option}d. Celsius
+{ans}b. joule
+{next}
+
+{ques}One litre of water at 30°C is mixed with one litre of water at 50°C. The temperature of the mixture will be
+{option}a. 80°C
+{option}b. More than 50°C but less than 80°C
+{option}c. 20°C
+{option}d. around 40°C
+{ans}d. around 40°C
+{next}
+
+{ques}An iron ball at 50°C is dropped in a mug containing water at 50°C. The heat will
+{option}a. flow from iron ball to water
+{option}b. not flow from iron ball to water or from water to iron ball
+{option}c. flow from water to iron ball
+{option}d. increase the temperature of both
+{ans}b. not flow from iron ball to water or from water to iron ball
+{next}
+
+Fill in the Blanks
+{ques}Heat flows from a _______ body to a _______ body.
+{ans}hot, cold
+{next}
+
+{ques}The hotness of the object is determined by its _______
+{ans}temperature
+{next}
+
+{ques}The SI unit of temperature is _______
+{ans}Kelvin
+{next}
+
+{ques}Solids _______ on heating and _______ on cooling.
+{ans}expand, contract
+{next}
+
+True or False
+{ques}Heat is a kind of energy that flows from a hot body to a cold body.
+{ans}True
+{next}
+
+{ques}Steam is formed when heat is released from water.
+{ans}False - Steam is formed when the heat is absorbed from the water.
+{next}
+
+{ques}Thermal expansion is always a nuisance.
+{ans}False - Thermal expansion is always not a nuisance.
+{next}
+
+{ques}Borosilicate glass do not expand much on being heated.
+{ans}True
+{next}
+
+Answer Briefly
+{ques}Why does an ordinary glass bottle crack when boiling water is poured into it, but a borosilicate glass bottle does not?
+{ans}The reason is that the borosilicate glass does not expand much on being heated and therefore they do not crack.
+{next}
+
+{ques}Why do electric wires sag in summer and become straight in winter?
+{ans}1. During summer thermal expansion takes place in electric wire
+2. In winter it contracts so it becomes straight
+{next}
+
+{ques}What is temperature?
+{ans}The measurement of the warmness or coldness of a substance is known as its temperature.
+{next}
+
+{ques}What is thermal expansion?
+{ans}The expansion of a substance on heating is called thermal expansion.
+{next}
+
+Additional Questions
+{ques}Explain thermal expansion with suitable examples.
+{ans}Thermal expansion: The expansion of a substance on heating is called the thermal expansion of that substance.
+
+Fitting the iron rim on the wooden wheel:
+1. The diameter of the iron ring is slightly less than that of the wooden wheel
+2. So, it cannot be easily slipped on from the rim of a wooden wheel
+3. The iron ring is, therefore, first heated to a higher temperature so that it expands in size and the hot ring is then easily slipped over to the rim of the wooden wheel
+4. Cold water is now poured on the iron ring so that it contracts in size and holds the wooden wheel tightly
+
+Rivetting:
+1. Rivets are used to join two steel plates together
+2. Hot rivet is driven through the hole in the plates
+3. One end of the rivet is hammered to form a new rivet head
+4. When cooled, the rivet will contract and hold the two plates tightly together
+{next}
+
+{ques}Distinguish between heat and temperature.
+{ans}Heat:
+1. It is a form of energy
+2. It flows from higher temperature to lower temperature
+3. It is measured in joules
+4. It is the total kinetic energy of molecules
+
+Temperature:
+1. It is the degree of hotness or coldness
+2. It determines the direction of heat flow
+3. It is measured in Kelvin or Celsius
+4. It is the average kinetic energy of molecules
+{next}
+
+{ques}What are the sources of heat?
+{ans}1. The main source of heat is Sun
+2. Other sources are combustion, friction and electricity
+{next}
+
+{ques}What will determine the direction of flow of heat from one object to another?
+{ans}Temperature will determine the direction of the flow of heat.
