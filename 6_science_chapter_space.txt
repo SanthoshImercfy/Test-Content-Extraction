@@ -1,0 +1,131 @@
+Choose the Correct Answer
+{ques}Which is the closest star to Earth?
+{option}(a) Proxima Centauri
+{option}(b) The Sun
+{option}(c) Sirius
+{option}(d) Alpha Centauri
+{ans}(b) The Sun
+{next}
+
+{ques}The planet known as the Red Planet is
+{option}(a) Venus
+{option}(b) Jupiter
+{option}(c) Mars
+{option}(d) Mercury
+{ans}(c) Mars
+{next}
+
+{ques}Which is the largest planet in our solar system?
+{option}(a) Saturn
+{option}(b) Jupiter
+{option}(c) Uranus
+{option}(d) Neptune
+{ans}(b) Jupiter
+{next}
+
+{ques}Earth's natural satellite is
+{option}(a) Venus
+{option}(b) Mars
+{option}(c) Moon
+{option}(d) Sun
+{ans}(c) Moon
+{next}
+
+{ques}The galaxy that contains our solar system is called
+{option}(a) Andromeda
+{option}(b) Milky Way
+{option}(c) Black Eye
+{option}(d) Whirlpool
+{ans}(b) Milky Way
+{next}
+
+Fill in the Blanks
+{ques}The _______ is at the center of our solar system.
+{ans}Sun
+{next}
+
+{ques}There are _______ planets in our solar system.
+{ans}eight
+{next}
+
+{ques}_______ is the hottest planet in our solar system.
+{ans}Venus
+{next}
+
+{ques}A group of stars that forms a pattern is called a _______.
+{ans}constellation
+{next}
+
+{ques}Halley's _______ appears in the sky every 76 years.
+{ans}comet
+{next}
+
+True or False
+{ques}The Sun is a planet.
+{ans}False - The Sun is a star
+{next}
+
+{ques}Mercury is the closest planet to the Sun.
+{ans}True
+{next}
+
+{ques}All planets rotate in the same direction.
+{ans}False - Venus and Uranus rotate in the opposite direction
+{next}
+
+{ques}The Moon produces its own light.
+{ans}False - The Moon reflects sunlight
+{next}
+
+{ques}Saturn is the only planet with rings.
+{ans}False - Jupiter, Uranus, and Neptune also have rings
+{next}
+
+Answer Briefly
+{ques}What is the solar system?
+{ans}The solar system consists of:
+1. The Sun at the center
+2. Eight planets orbiting the Sun
+3. Dwarf planets
+4. Asteroids and comets
+5. Natural satellites (moons)
+6. Other celestial objects bound by the Sun's gravity
+{next}
+
+{ques}Name the planets in order from the Sun.
+{ans}The planets in order from the Sun are:
+1. Mercury
+2. Venus
+3. Earth
+4. Mars
+5. Jupiter
+6. Saturn
+7. Uranus
+8. Neptune
+{next}
+
+{ques}What are stars?
+{ans}Stars are:
+1. Massive balls of hot gases
+2. They produce their own light and heat
+3. They appear as tiny points of light due to their great distance
+4. They vary in size, color, and brightness
+5. The Sun is our nearest star
+{next}
+
+{ques}What is a satellite?
+{ans}A satellite is an object that orbits around a planet:
+1. Natural satellites (like the Moon)
+2. Artificial satellites (made by humans)
+3. They move in fixed paths called orbits
+4. They are used for communication, weather forecasting, etc.
+5. Different planets have different numbers of natural satellites
+{next}
+
+{ques}What are constellations?
+{ans}Constellations are:
+1. Groups of stars that form patterns in the night sky
+2. They appear to form shapes of objects, animals, or mythological figures
+3. They help in navigation
+4. Different cultures have different names for them
+5. There are 88 officially recognized constellations
