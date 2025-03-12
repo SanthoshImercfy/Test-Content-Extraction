@@ -1,0 +1,130 @@
+Choose the Correct Answer
+{ques}What is the percentage of nitrogen in the air?
+{option}(a) 78%
+{option}(b) 21%
+{option}(c) 0.03%
+{option}(d) l%
+{ans}(a) 78%
+{next}
+
+{ques}Gas exchange takes place in plants using
+{option}(a) Stomata
+{option}(b) Chlorophyll
+{option}(c) Leaves
+{option}(d) Flowers
+{ans}(a) Stomata
+{next}
+
+{ques}The constituent of air that supports combustion is
+{option}(a) Nitrogen
+{option}(b) carbon-di-oxide
+{option}(c) Oxygen
+{option}(d) water vapour
+{ans}(c) Oxygen
+{next}
+
+{ques}Nitrogen is used in the food packaging industry because it
+{option}(a) provides colour to the food
+{option}(b) provides oxygen to the food
+{option}(c) adds proteins and minerals to the food
+{option}(d) keeps the food fresh
+{ans}(d) keeps the food fresh
+{next}
+
+{ques}Which two gases make up about 99 percentage of air?
+{option}(a) Nitrogen and carbon-di-oxide
+{option}(b) Nitrogen and Noble gases
+{option}(c) carbon-di-oxide and Oxygen
+{option}(d) Nitrogen and Oxygen
+{ans}(d) Nitrogen and Oxygen
+{next}
+
+Fill in the Blanks
+{ques}_______ is the active component of air.
+{ans}Oxygen(O2)
+{next}
+
+{ques}The gas given out during photosynthesis is _______.
+{ans}Oxygen(O2)
+{next}
+
+{ques}_______ gas is given to the patients having breathing problems.
+{ans}Oxygen (O2)
+{next}
+
+{ques}_______ can be seen moving in a beam of sunlight in a dark room.
+{ans}Tiny dust particles
+{next}
+
+{ques}_______ gas turns lime water milky.
+{ans}Carbon dioxide (CO2)
+{next}
+
+True or False
+{ques}Inhaled air contains a large amount of carbon-di-oxide.
+{ans}False – Inhaled air contains a large amount of oxygen
+{next}
+
+{ques}Planting trees help in decreasing global warming.
+{ans}True
+{next}
+
+{ques}The composition of air is always exactly the same.
+{ans}False – The composition of air changes slightly from place to place & also from season to season
+{next}
+
+{ques}Whales come up to the water surface to breathe in oxygen.
+{ans}True
+{next}
+
+{ques}The balance of oxygen in the atmosphere is maintained through photosynthesis in animals and respiration in plants.
+{ans}False – The balance of oxygen in the atmosphere is maintained through Photosynthesis in plants & respiration in animals
+{next}
+
+Answer Briefly
+{ques}What is the atmosphere? Name the five layers of the atmosphere.
+{ans}Our earth is surrounded by a huge envelope of air called the atmosphere.
+The atmosphere is made of five different layers – the Troposphere, the Stratosphere, the Mesosphere, the Ionosphere, and the Exosphere.
+{next}
+
+{ques}How do the roots of land plants get oxygen for breathing?
+{ans}Oxygen is present in the air spaces of soil. This O2 is taken by root hairs through diffusion to the rest of the plant.
+{next}
+
+{ques}What should be done if the clothes of a person catch fire accidentally? Why?
+{ans}1. Cover the person in a rug or blanket and Roll him on the floor.
+2. This will cut off the air and put out the flames.
+3. A suitable fire extinguisher can also be chosen.
+{next}
+
+{ques}Why do traffic assistants wear a mask on duty?
+{ans}Traffic assistants are continually exposed to smoke emitted out from the vehicles. Inhaling the pollutants in the smoke may cause breathing and lung problems. So they wear a mask on duty.
+{next}
+
+Additional Questions
+{ques}How do plants and animals maintain the balance of oxygen and carbon-di-oxide in air?
+{ans}1. Plants in forests release oxygen through the process of photosynthesis and help in providing oxygen to animals for respiration.
+2. Plants consume carbon dioxide released by the animals. In this way, plants help in maintaining a balance of oxygen and carbon dioxide in the atmosphere.
+{next}
+
+{ques}Why is the atmosphere essential for life on earth?
+{ans}The atmosphere is essential for life because it maintains an appropriate climate for the maintenance of life by carrying out the following activities:
+1. The atmosphere keeps the average temperature of the Earth fairly constant during the day time.
+2. It prevents a sudden increase in temperature during the day time.
+3. It also slows down the escape of heat from the surface of the Earth into outer space during the night time.
+{next}
+
+{ques}Can you guess why fire extinguishers throw a stream of carbon-di-oxide while putting off fire?
+{ans}It is because carbon-di-oxide (CO2) does not support combustion. When sprayed on burning object it stops the supply of oxygen and controls the fire.
+{next}
+
+{ques}What is Burning?
+{ans}The process of firing of a substance in the presence of O2 and releasing a large amount of light and heat.
+{next}
+
+{ques}Mention the uses of Air.
+{ans}1. For breathing by plants and Animals.
+2. For burning fuels like wood, coal, kerosene, LPG etc.
+3. Compressed air is used to fill tyres of vehicles.
+4. Maintaining the water cycle in nature.
+5. O2 gas is used by patients in Hospitals, Climbers in mountains, Divers in Deepsea.
