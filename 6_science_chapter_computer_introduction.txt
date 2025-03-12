@@ -1,0 +1,106 @@
+Choose the Correct Answer
+{ques}Who is the father of computer?
+{option}a. Martin Luther King
+{option}b. Graham Bell
+{option}c. Charlie Chaplin
+{option}d. Charles Babbage
+{ans}d. Charles Babbage
+{next}
+
+{ques}Which of the following is another form of computer?
+{option}a. Blackboard
+{option}b. Mobile
+{option}c. Radio
+{option}d. Book
+{ans}b. Mobile
+{next}
+
+{ques}When was the first computer introduced?
+{option}a. 1980
+{option}b. 1947
+{option}c. 1946
+{option}d. 1985
+{ans}c. 1946
+{next}
+
+{ques}Who is the computer's first programmer?
+{option}a. Lady Wellington
+{option}b. Augusta Ada Lovelace
+{option}c. Mary Curie
+{option}d. Mary Comb
+{ans}b. Augusta Ada Lovelace
+{next}
+
+{ques}Pick out the odd one?
+{option}a. Calculator
+{option}b. Abacus
+{option}c. Flash Card
+{option}d. Laptop
+{ans}c. Flash Card
+{next}
+
+Fill in the Blanks
+{ques}Data is _______ Information.
+{ans}Processed
+{next}
+
+{ques}World's first general purpose computer is _______
+{ans}Electronic Numerical Integrator and Computer
+{next}
+
+{ques}Information is _______ data
+{ans}a form of processed
+{next}
+
+{ques}Fifth generation computer has _______ Intelligence.
+{ans}Artificial
+{next}
+
+{ques}_______ is the device that uses Index number.
+{ans}Analog Computer
+{next}
+
+True or False
+{ques}The computer is an Electronic device.
+{ans}True
+{next}
+
+{ques}Sir Isaac Newton invented the Computer.
+{ans}False
+{next}
+
+{ques}The computer can do calculations fast.
+{ans}True
+{next}
+
+Answer Briefly
+{ques}What is a Computer?
+{ans}Computer is an electronic device that processes data and information according to our needs.
+{next}
+
+{ques}Who are the pioneers/forerunners of computers?
+{ans}1. Charles Babbage: a professor in mathematics has designed an analog computer. He is known as the father of computers.
+2. Augusta Ada Lovelace: the first programmer as she developed essential commands for mathematical operations.
+{next}
+
+{ques}Write a short note on Data.
+{ans}1. Data is the information that has to be processed.
+2. They are in the form of numbers, alphabets, and images.
+{next}
+
+{ques}Name any four input devices.
+{ans}Keyboard, Mouse, Bar code reader, Digital camera
+{next}
+
+Additional Questions
+{ques}Differentiate Hardware and Software.
+{ans}Hardware: The parts that are available on the computer that helps the software to work.
+Software: The commands or programs that are used on a computer.
+{next}
+
+{ques}Explain in detail the Applications of the computer.
+{ans}1. The computer is used in textile shops for billing purposes
+2. It is used in the railway station for issuing tickets
+3. It is used in the banks for multi-purpose
+4. It is used in ATMs
+5. It is used in the Post office
