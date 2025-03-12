@@ -1,0 +1,100 @@
+Choose the Correct Answer
+{ques}Which one of the following is an output device?
+{option}(a) Mouse
+{option}(b) Keyboard
+{option}(c) Speaker
+{option}(d) Pen drive
+{ans}(c) Speaker
+{next}
+
+{ques}Name the cable that connects CPU to the Monitor
+{option}(a) Ethernet
+{option}(b) VGA cable
+{option}(c) HDMI
+{option}(d) USB
+{ans}(b) VGA cable
+{next}
+
+{ques}Which one of the following is an input device?
+{option}(a) Speaker
+{option}(b) Keyboard
+{option}(c) Monitor
+{option}(d) Printer
+{ans}(b) Keyboard
+{next}
+
+{ques}Which one of the following is an example for wireless connections?
+{option}(a) Wi-Fi
+{option}(b) Electric wires
+{option}(c) VGA
+{option}(d) USB
+{ans}(a) Wi-Fi
+{next}
+
+{ques}Pen drive is _______ device.
+{option}(a) Output
+{option}(b) Input
+{option}(c) Storage
+{option}(d) Connecting cable
+{ans}(c) Storage
+{next}
+
+Fill in the Blanks
+{ques}_______, _______ plays a role of data in computer.
+{ans}Numbers and alphabets
+{next}
+
+{ques}_______ controls the functions of all parts of the computer.
+{ans}control unit
+{next}
+
+{ques}Memory unit divided into _______ types.
+{ans}2
+{next}
+
+{ques}The data is measured in units which is called as _______.
+{ans}Bit
+{next}
+
+{ques}Mouse is connected with the computer using _______.
+{ans}USB cord or cable
+{next}
+
+Additional Questions
+{ques}Name the parts of a computer.
+{ans}The computer has three parts:
+1. Input unit
+2. Central Processing Unit
+3. Output
+{next}
+
+{ques}Which one of the following is not important part of computer?
+{option}(a) Input device
+{option}(b) Output device
+{option}(c) Mouse
+{option}(d) Central Processing Unit
+{ans}(c) Mouse
+{next}
+
+{ques}The page on the monitor can be moved up and down using the
+{option}(a) Right button
+{option}(b) Scroll ball
+{option}(c) Left button
+{option}(d) Number key
+{ans}(b) Scroll ball
+{next}
+
+{ques}Which one of the following is an example for wireless connection?
+{option}(a) USB
+{option}(b) power cord
+{option}(c) HDMI
+{option}(d) wi-fi
+{ans}(d) wi-fi
+{next}
+
+{ques}The data is measured in units which is called as
+{option}(a) micron
+{option}(b) meter
+{option}(c) millimeter
+{option}(d) Bit
+{ans}(d) Bit
