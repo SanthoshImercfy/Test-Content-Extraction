@@ -1,0 +1,138 @@
+Choose the Correct Answer
+{ques}Our body needs for muscle-building
+{option}a. Carbohydrate
+{option}b. Fat
+{option}c. Protein
+{option}d. Water
+{ans}c. Protein
+{next}
+
+{ques}Scurvy is caused due to the deficiency of
+{option}a. Vitamin A
+{option}b. Vitamin B
+{option}c. Vitamin C
+{option}d. Vitamin D
+{ans}c. Vitamin C
+{next}
+
+{ques}Calcium is an example of a
+{option}a. Carbohydrate
+{option}b. Fat
+{option}c. Protein
+{option}d. Minerals
+{ans}d. Minerals
+{next}
+
+{ques}We should include fruits and vegetables in our diet, because
+{option}a. They are the best source of Carbohydrates
+{option}b. They are the best source of Proteins
+{option}c. They are rich in minerals and Vitamins
+{option}d. They have high water content
+{ans}c. They are rich in minerals and Vitamins
+{next}
+
+{ques}Name the sunshine Vitamin
+{option}a. A
+{option}b. D
+{option}c. C
+{option}d. K
+{ans}b. D
+{next}
+
+True or False
+{ques}There are three main nutrients present in food.
+{ans}False
+{next}
+
+{ques}Fats are used as an energy store by our body.
+{ans}True
+{next}
+
+{ques}All bacteria have flagella.
+{ans}False
+{next}
+
+{ques}Iron helps in the formation of haemoglobin.
+{ans}True
+{next}
+
+{ques}Virus can grow and multiply outside host.
+{ans}False
+{next}
+
+Fill in the Blanks
+{ques}Malnutrition leads to _______
+{ans}Deficiency diseases
+{next}
+
+{ques}Iodine deficiency leads to _______ in adults.
+{ans}Goitre
+{next}
+
+{ques}Vitamin D deficiency causes _______
+{ans}Rickets
+{next}
+
+{ques}Typhoid is transmitted due to contamination of _______ and water.
+{ans}Food
+{next}
+
+{ques}Influenza is a _______ disease.
+{ans}Viral
+{next}
+
+Answer Briefly
+{ques}Write two examples for each of the following:
+a. Food items rich in fat
+b. Vitamin deficiency diseases
+{ans}a. Food items rich in fat: Meat, fish, egg yolk, milk
+b. Vitamin deficiency diseases: Night blindness, Beriberi, Scurvy, Rickets
+{next}
+
+{ques}Define the term "Balanced diet"
+{ans}A diet which contains a sufficient amount of various nutrients to ensure good health is called a Balanced diet.
+{next}
+
+{ques}Why should the fruits and vegetables not be washed after cutting?
+{ans}We should not wash the fruits and vegetables after cutting, because the minerals and protein in the fruits and vegetables will also be washed away.
+{next}
+
+{ques}What are the main features of a microorganism?
+{ans}Microorganism will be seen with the help of a microscope. They are very small in size.
+{next}
+
+Additional Questions
+{ques}Differentiate between Carbohydrate and Protein.
+{ans}Carbohydrate:
+1. Energy giving component of the food
+2. The sources of carbohydrates are nuts, fruits, rice, and maize
+
+Protein:
+1. It is body building foods
+2. The sources of proteins are pulses, soybean, nuts, egg, and fish
+{next}
+
+{ques}What are the uses of exercise?
+{ans}1. It improves growth and development
+2. It delays aging
+3. It strengthens muscles and blood circulation
+4. It develops athletic skills and reduces weight
+{next}
+
+{ques}List the six important nutrients.
+{ans}1. Carbohydrate
+2. Vitamins
+3. Protein
+4. Minerals
+5. Fat
+6. Water
+{next}
+
+{ques}Differentiate between Kwashiorkor and Marasmus.
+{ans}Kwashiorkor:
+- Stunted growth
+- Swelling of face and limbs diarrhea
+
+Marasmus:
+- Skinny appearance
+- Slow body growth
