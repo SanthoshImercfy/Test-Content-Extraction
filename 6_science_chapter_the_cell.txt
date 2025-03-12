@@ -1,0 +1,130 @@
+Choose the Correct Answer
+{ques}The unit of measurement used for expressing dimension (size) of cell is
+{option}(a) centimeter
+{option}(b) millimeter
+{option}(c) micrometer
+{option}(d) meter
+{ans}(c) micrometer
+{next}
+
+{ques}Under the microscope, Priya observes a cell that has a cell wall and a distinct nucleus. The cell that she observed is
+{option}(a) a plant cell
+{option}(b) an animal cell
+{option}(c) a nerve cell
+{option}(d) a bacteria cell
+{ans}(d) a bacteria cell
+{next}
+
+{ques}A 'control centre' of the eukaryotic cell is
+{option}(a) Cell wall
+{option}(b) Nucleus
+{option}(c) Vacuoles
+{option}(d) Chloroplast
+{ans}(b) Nucleus
+{next}
+
+{ques}Which one of the following is not a unicellular organism?
+{option}(a) Yeast
+{option}(b) Amoeba
+{option}(c) Spirogyra
+{option}(d) Bacteria
+{ans}(c) Spirogyra
+{next}
+
+{ques}Most organelles in a eukaryotic cell are found in the
+{option}(a) Cell wall
+{option}(b) cytoplasm
+{option}(c) nucleus
+{option}(d) Vacuole
+{ans}(b) cytoplasm
+{next}
+
+Fill in the Blanks
+{ques}The instrument used to observe the cell is _______.
+{ans}Microscope
+{next}
+
+{ques}I control the food production of a cell. Who am I? _______.
+{ans}Chloroplast
+{next}
+
+{ques}I am like a policeman. Who am I ______?
+{ans}Cell membrane
+{next}
+
+{ques}The Term "cell" was coined by _______.
+{ans}Robert Hooke
+{next}
+
+{ques}The egg of an Ostrich is the _______ single cell.
+{ans}Largest
+{next}
+
+True or False
+{ques}A cell is the smallest unit of life.
+{ans}True
+{next}
+
+{ques}Nerve cell is the longest cell.
+{ans}True
+{next}
+
+{ques}Prokaryotes were the first form of life on earth.
+{ans}True
+{next}
+
+{ques}The organelles of both plants and animals are made up of cells.
+{ans}False
+{next}
+
+{ques}New cells are produced from existing cells.
+{ans}True
+{next}
+
+Answer Briefly
+{ques}Who discovered the cell in 1665?
+{ans}The English scientist Robert Hooke discovered the cell in 1665 from cork slices kept under a microscope.
+{next}
+
+{ques}What type of cells do we have?
+{ans}We have a Eukaryotic type of cells.
+{next}
+
+{ques}What are the essential components of a cell?
+{ans}A typical cell consists of three major parts:
+1. An outer cell membrane
+2. A liquid cytoplasm
+3. Nucleus
+{next}
+
+{ques}What are the organelles found only in plant cells?
+{ans}1. Cell wall
+2. Chloroplast
+{next}
+
+{ques}Give any three examples of eukaryotic cells.
+{ans}1. Plant cells
+2. Animal cells
+3. Most of fungi and Algae
+{next}
+
+Additional Questions
+{ques}Why cells are called building blocks of life?
+{ans}A brick is a basic building block of a wall, likewise, the cells are the basic structural and functional unit of every living organism. So the cells are called as building blocks of life.
+{next}
+
+{ques}Write about the contribution of Robert Hooke in cell biology.
+{ans}Robert Hooke was a scientist and inventor. He improved the microscope and built a compound microscope. One day he made thin sections of the cork and observed many small identical chambers through his microscope. They were hexagonal in shape. Based on these observations Hooke published a book named Micrographia in the year 1665, where he first used the term Cell. He describes the structure of tissue using the term cell.
+{next}
+
+{ques}How do you distinguish between living and dead cells?
+{ans}Living cells have a nucleus (Eg.) Onion peel cells.
+Non-Living cells don't have a nucleus (Eg.) Cork cells.
+{next}
+
+{ques}Name the largest Angiosperm cell.
+{ans}The largest Angiosperm cell is citrus reticulata (clearly visible in orange pulp) & citrus maxima.
+{next}
+
+{ques}Name the organelle without membrane.
+{ans}Ribosomes are the cell organelle in which the membrane is absent.
