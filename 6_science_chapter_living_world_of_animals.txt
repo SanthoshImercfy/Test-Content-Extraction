@@ -1,0 +1,103 @@
+Choose the Correct Answer
+{ques}The study of living things or organisms is called
+{option}a. Psychology
+{option}b. Biology
+{option}c. Zoology
+{option}d. Botany
+{ans}b. Biology
+{next}
+
+{ques}Lizards breathe through their
+{option}a. Skin
+{option}b. Gills
+{option}c. Lungs
+{option}d. Trachea
+{ans}c. Lungs
+{next}
+
+{ques}All animals need
+{option}a. Food and water only
+{option}b. Water only
+{option}c. Air, food and water
+{option}d. Food only
+{ans}c. Air, food and water
+{next}
+
+{ques}Which animal has the special organs of breathing called gills
+{option}a. Earthworm
+{option}b. Fox
+{option}c. Fish
+{option}d. Frog
+{ans}c. Fish
+{next}
+
+True or False
+{ques}A habitat is a living or dwelling place of an organism.
+{ans}True
+{next}
+
+{ques}The geographical features and environmental conditions on earth remain the same from one place to another.
+{ans}False - The geographical features and environmental conditions on earth do not remain the same from one place to another.
+{next}
+
+{ques}Amoeba is a unicellular organism and moves with pseudopodia.
+{ans}True
+{next}
+
+Fill in the Blanks
+{ques}Tropical rain forests, grasslands, and deserts are known as _______
+{ans}habitat
+{next}
+
+{ques}Some living things are made of a single cell, they are called a _______ organism
+{ans}unicellular
+{next}
+
+{ques}The breathing organ of a fish is known as _______
+{ans}gills
+{next}
+
+Answer Briefly
+{ques}How do the birds catch their prey?
+{ans}The prey-catching process depends on their types:
+- The aquatic birds with the help of their beaks get their prey sliding upside down into the water
+- The birds of paddy fields get small insects with the help of sharp claws of their limbs
+{next}
+
+{ques}Name the locomotory organs of an Amoeba.
+{ans}Amoeba moves with the help of a finger-like projection called pseudopodia from place to place.
+{next}
+
+{ques}What are the body parts of the snake?
+{ans}Snake's body is divided into:
+1. Head
+2. Body
+3. Tail
+4. Organs on the head - Two eyes, Two nostrils, mouth
+{next}
+
+Additional Questions
+{ques}Write the adaptive features of polar bears and penguins.
+{ans}Polar bear:
+1. They have short limbs
+2. They have limited body surface to reduce the body temperature
+3. They have thick skin
+4. They have thick fat deposition under the skin
+5. They eat food rich in fat
+
+Penguin:
+1. They have a boat-shaped body
+2. Their feathers absorb sunlight
+3. They have thick skin
+4. They have thick fat deposition under the skin
+5. They have short wings to fly above the water and paddle for swimming
+{next}
+
+{ques}Describe the various features which help Camel dwell well in the desert.
+{ans}1. The long leg of the camel helps to keep its body away from the desert
+2. Camel will drink a large amount of water and store it in the body
+3. Camel produces only a small quantity of urine
+4. The stored fat in the hump can break down for nourishment
+5. A camel has large and flat padded feet which help in walking easily on soft sand
+6. The long eyelashes and hairs protect its eyes and ears from flowing dust
+7. It can keep its nostrils closed to avoid dust
