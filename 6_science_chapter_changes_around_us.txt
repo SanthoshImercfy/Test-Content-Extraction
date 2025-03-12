@@ -1,0 +1,128 @@
+Choose the Correct Answer
+{ques}When ice melts to form water, change occurs in its
+{option}(a) position
+{option}(b) colour
+{option}(c) state
+{option}(d) composition
+{ans}(c) State
+{next}
+
+{ques}Drying of wet clothes in air is an example of
+{option}(a) Chemical change
+{option}(b) Undesirable change
+{option}(c) irreversible change
+{option}(d) physical change
+{ans}(d) Physical change
+{next}
+
+{ques}Out of the following an example of a desirable change is
+{option}(a) rusting
+{option}(b) change of seasons
+{option}(c) earthquake
+{option}(d) flooding
+{ans}(b) change of seasons
+{next}
+
+{ques}Air pollution leading to Acid rain is a
+{option}(a) reversible change
+{option}(b) fast change
+{option}(c) natural change
+{option}(d) human made change
+{ans}(d) human made change
+{next}
+
+{ques}Water changes into ice on cooling are called as
+{option}(a) Melting
+{option}(b) Vaporisation
+{option}(c) Condensation
+{option}(d) Freezing
+{ans}(d) Freezing
+{next}
+
+Fill in the Blanks
+{ques}Magnet attracts iron needle. This is _______ change.
+{ans}a reversible
+{next}
+
+{ques}Boiling of egg results in _______ change.
+{ans}an irreversible
+{next}
+
+{ques}Changes that are harmful to us are _______.
+{ans}undesirable
+{next}
+
+{ques}Plants convert Carbon-di-oxide and water into starch. This is an example of _______ change.
+{ans}natural
+{next}
+
+{ques}Bursting of fire crackers is a _______ change whereas germination of seeds is a _______ change.
+{ans}fast; slow
+{next}
+
+True or False
+{ques}Growing of teeth in an infant is slow change.
+{ans}True
+{next}
+
+{ques}Burning of match stick is a reversible change.
+{ans}False – It is an irreversible change
+{next}
+
+{ques}Change of New moon to Full moon is human made.
+{ans}False – It is a Natural change
+{next}
+
+{ques}Digestion of food is a physical change.
+{ans}False – It is a Chemical change
+{next}
+
+{ques}In a solution of salt in water, water is the solute.
+{ans}False – Water is the solvent
+{next}
+
+Answer Briefly
+{ques}What kind of change is associated with the decaying of plants?
+{ans}Decaying of plants is associated with slow change and chemical change.
+{next}
+
+{ques}You are given some candle wax. Can you make a candle doll from it? What kind of change is this?
+{ans}Yes, I can make a doll from the candle. The kind of change is a physical change.
+{next}
+
+{ques}Define a slow change.
+{ans}Changes which take place over a long period of time (hours/days/months/years) are known as slow changes.
+{next}
+
+{ques}What happens when cane sugar is strongly heated? Mention any two changes in it.
+{ans}When Cane sugar is strongly heated, it will initially melt and after that start to decompose. It will turn brown and then black and give off fumes.
+The changes involved are:
+1. Physical change
+2. irreversible change
+{next}
+
+{ques}What is the solution?
+{ans}When a solute is dissolved in a solvent, it forms a solution.
+Solute + solvent → solution.
+{next}
+
+Additional Questions
+{ques}What happens when the paper is burnt? Explain.
+{ans}When the paper is burnt, oxygen from the air combines with carbon in the paper turning into carbon dioxide and water vapor which float away, leaving solid ash. The action of burning paper can't be reversed. So, it is an irreversible change. Also, it is a Chemical change and a Fast change.
+{next}
+
+{ques}Can deforestation be considered a desirable change? Explain.
+{ans}1. Deforestation cannot be considered a desirable change.
+2. Because it is harmful to our environment and not desired by us are known as Undesirable changes.
+{next}
+
+{ques}What is a reversible change?
+{ans}Changes which can be reversed (to get back to the original state) are known as reversible changes.
+{next}
+
+{ques}What is melting? Give example.
+{ans}The conversion of a solid into a liquid by heating is called melting. Ex.: Ice into water.
+{next}
+
+{ques}Why is water called the universal solvent?
+{ans}Water is known as the universal solvent because it dissolves a wide range of substances.
