@@ -1,0 +1,145 @@
+Choose the Correct Answer
+{ques}The circulatory system transports which of these throughout the body?
+{option}(a) Oxygen
+{option}(b) Nutrient
+{option}(c) Hormones
+{option}(d) All of these
+{ans}(d) All of these
+{next}
+
+{ques}Main organ of respiration in human body is
+{option}(a) Stomach
+{option}(b) Spleen
+{option}(c) Heart
+{option}(d) Lungs
+{ans}(d) Lungs
+{next}
+
+{ques}Breakdown of food into smaller molecules in our body is known as
+{option}(a) Muscle contraction
+{option}(b) Respiration
+{option}(c) Digestion
+{option}(d) Excretion
+{ans}(c) Digestion
+{next}
+
+{ques}A newborn baby has _______ bones.
+{option}(a) 206
+{option}(b) More than 200
+{option}(c) More than 300
+{option}(d) 210
+{ans}(c) More than 300
+{next}
+
+{ques}The walls of the heart is made up of
+{option}(a) Voluntary muscles
+{option}(b) Cardiac muscles
+{option}(c) Involuntary muscles
+{option}(d) Biceps muscle
+{ans}(b) Cardiac muscles
+{next}
+
+Fill in the Blanks
+{ques}A group of organs together make up an _______ system.
+{ans}Organ
+{next}
+
+{ques}The part of the skeleton that protects the brain is _______.
+{ans}Skull
+{next}
+
+{ques}The process by which the body removes waste is _______.
+{ans}Excretion
+{next}
+
+{ques}The _______ is the largest sense organ in our body.
+{ans}Skin
+{next}
+
+{ques}The endocrine glands produce chemical substances called _______.
+{ans}hormones
+{next}
+
+True or False
+{ques}Blood is produced in the bone marrow.
+{ans}False – RBC's are produced in the bone marrow.
+{next}
+
+{ques}All the waste products of the body are excreted through the circulatory system.
+{ans}False – All the waste products are transported through the circulatory system.
+{next}
+
+{ques}The other name of the food pipe is an alimentary canal.
+{ans}False – The other name of the digestive tract is an alimentary canal.
+{next}
+
+{ques}Thin tube-like structures which are the component of the circulatory system are called blood vessels.
+{ans}True
+{next}
+
+{ques}The brain, the spinal cord, and nerves form the nervous system.
+{ans}True
+{next}
+
+Answer Briefly
+{ques}Describe the skeletal system.
+{ans}1. The skeletal system consists of bones, cartilages and joints.
+2. Bones provide a framework for the body.
+3. Bones along with muscles help in movements such as walking, running, chewing and dancing etc.
+{next}
+
+{ques}Write the functions of epiglottis?
+{ans}1. It prevents the entry of food into the windpipe.
+2. It opens when the air enters the windpipe.
+{next}
+
+{ques}What are the three types of blood vessels?
+{ans}1. Arteries
+2. Veins
+3. Capillaries
+{next}
+
+{ques}Define the term "Trachea"
+{ans}1. The trachea commonly called "Windpipe" is a tube supported by cartilaginous rings.
+2. It connects the pharynx and larynx to the lungs.
+3. Allowing the passage of air.
+{next}
+
+{ques}Name the five important sense organs.
+{ans}1. Eyes
+2. Ears
+3. Nose
+4. Tongue
+5. Skin
+{next}
+
+Additional Questions
+{ques}List out the functions of the human skeleton.
+{ans}1. The skeletal system gives shape to the body.
+2. Bones provide a framework for the body.
+3. Bones along with muscles help in movements such as walking, running, chewing and dancing, etc.
+4. It protects the soft internal organs.
+{next}
+
+{ques}What will happen if the diaphragm shows no movement?
+{ans}1. The diaphragm is the primary organ of breathing.
+2. The movement of the diaphragm expands the lungs and creates a vacuum.
+3. Due to this, the air is sucked in.
+4. If the diaphragm does not move the lungs do not expand or contract and breathing stops.
+5. The person will die.
+{next}
+
+{ques}Why do we sweat more in summer?
+{ans}1. Sweating plays an important health role as it helps to maintain constant body temperature by cooling us down.
+2. When it is hot and we sweat that moisture evaporates and cools us immediately.
+3. This is why we sweat more when the summer is very hot.
+{next}
+
+{ques}What are the two major divisions of the skeletal system?
+{ans}The two major divisions of the skeletal system are:
+1. Axial skeleton
+2. Appendicular skeleton
+{next}
+
+{ques}What is the length of the Alimentary canal?
+{ans}9 metres
