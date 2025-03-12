@@ -1,0 +1,130 @@
+Choose the Correct Answer
+{ques}Which gas is most abundant in the atmosphere?
+{option}(a) Oxygen
+{option}(b) Carbon dioxide
+{option}(c) Nitrogen
+{option}(d) Hydrogen
+{ans}(c) Nitrogen
+{next}
+
+{ques}The percentage of oxygen in air is approximately
+{option}(a) 21%
+{option}(b) 78%
+{option}(c) 0.03%
+{option}(d) 1%
+{ans}(a) 21%
+{next}
+
+{ques}Which of the following is NOT a property of air?
+{option}(a) Air has weight
+{option}(b) Air occupies space
+{option}(c) Air is visible
+{option}(d) Air exerts pressure
+{ans}(c) Air is visible
+{next}
+
+{ques}Plants use which gas for photosynthesis?
+{option}(a) Oxygen
+{option}(b) Nitrogen
+{option}(c) Carbon dioxide
+{option}(d) Hydrogen
+{ans}(c) Carbon dioxide
+{next}
+
+{ques}Air pollution is mainly caused by
+{option}(a) plants
+{option}(b) animals
+{option}(c) human activities
+{option}(d) natural processes
+{ans}(c) human activities
+{next}
+
+Fill in the Blanks
+{ques}Air is a mixture of different _______.
+{ans}gases
+{next}
+
+{ques}The process by which plants make their food using sunlight is called _______.
+{ans}photosynthesis
+{next}
+
+{ques}_______ is the most abundant gas in Earth's atmosphere.
+{ans}Nitrogen
+{next}
+
+{ques}The layer of air surrounding the Earth is called _______.
+{ans}atmosphere
+{next}
+
+{ques}Moving air is called _______.
+{ans}wind
+{next}
+
+True or False
+{ques}Air has no weight.
+{ans}False - Air has weight and mass
+{next}
+
+{ques}Plants release oxygen during photosynthesis.
+{ans}True
+{next}
+
+{ques}Carbon dioxide is the most abundant gas in air.
+{ans}False - Nitrogen is the most abundant gas in air
+{next}
+
+{ques}Air pressure decreases as we go higher in the atmosphere.
+{ans}True
+{next}
+
+{ques}Air pollution does not affect human health.
+{ans}False - Air pollution severely affects human health
+{next}
+
+Answer Briefly
+{ques}What is the composition of air?
+{ans}Air is composed of:
+1. Nitrogen (78%)
+2. Oxygen (21%)
+3. Carbon dioxide (0.03%)
+4. Other gases like argon, neon, helium (0.97%)
+5. Water vapor in varying amounts
+{next}
+
+{ques}List the properties of air.
+{ans}Properties of air include:
+1. Air has weight
+2. Air occupies space
+3. Air exerts pressure
+4. Air can be compressed
+5. Air expands when heated
+6. Air moves from high pressure to low pressure areas
+{next}
+
+{ques}What are the main causes of air pollution?
+{ans}Main causes of air pollution include:
+1. Vehicle emissions
+2. Industrial emissions
+3. Burning of fossil fuels
+4. Agricultural activities
+5. Construction and mining
+6. Waste burning
+{next}
+
+{ques}How do plants and animals use air?
+{ans}Plants and animals use air in the following ways:
+1. Plants use carbon dioxide for photosynthesis
+2. Plants release oxygen as a byproduct
+3. Animals use oxygen for respiration
+4. Animals release carbon dioxide during respiration
+5. This creates a natural cycle of gases
+{next}
+
+{ques}What are the uses of air?
+{ans}Air has many uses:
+1. Breathing and survival of living beings
+2. Burning and combustion
+3. Wind energy generation
+4. Flying of aircraft
+5. Inflating tires
+6. Weather and climate regulation
