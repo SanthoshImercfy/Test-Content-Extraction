@@ -1,0 +1,72 @@
+{quesType}Choose the correct answer{quesType}
+
+{ques}What was the step taken by the early man to collect his food?
+-- trade
+-- hunting
+-- painting
+-- rearing of animals{ques}
+{ans}hunting{ans}
+{next}
+
+{quesType}Pick out the odd one{quesType}
+
+{ques}Find the odd one from the following:
+-- Paintings were drawn on rocks and caves
+-- There were paintings depicting hunting scenes
+-- It was drawn to show his family members about hunting
+-- The paintings were painted by using many colours{ques}
+{ans}It was drawn to show his family members about hunting{ans}
+{next}
+
+{quesType}Say True or False{quesType}
+
+{ques}Stone tools belonging to the Old Stone age have been excavated at Athtirampakkam near Chennai.{ques}
+{ans}True{ans}
+{next}
+
+{ques}The materials used by the ancient people are preserved in the museums by the Archaeological Department.{ques}
+{ans}True{ans}
+{next}
+
+{ques}During the period of Ashoka, Buddhism spread across the country.{ques}
+{ans}True{ans}
+{next}
+
+{quesType}Answer the following questions in one or two sentences{quesType}
+
+{ques}What is history?{ques}
+{ans}1. History is a record of past events in chronological order.
+2. The term History has been derived from the Greek word Istoria which means learning by enquiry.{ans}
+{next}
+
+{ques}What do you know about the prehistoric period?{ques}
+{ans}1. The period between the use of the first stone tools and the invention of writing systems is pre-history.
+2. Stone tools excavated materials, and rock paintings are the major sources of pre-history{ans}
+{next}
+
+{ques}What are the sources available to know about the prehistoric period?{ques}
+{ans}Paintings on the rocks and the walls of the caves, stone tools, excavated materials are the sources available to know about the pre-historic period.{ans}
+{next}
+
+{quesType}Think and answer{quesType}
+
+{ques}How dogs were useful to prehistoric man?{ques}
+{ans}1. Dogs with their sniffing power helped them find out other wild animals.
+2. Dog helped them prevent the entry of dangerous animals.
+3. Thus dogs helped them in hunting and protection.{ans}
+{next}
+
+{ques}Compare the lifestyle of Old Stone Age man with present-day lifestyle.{ques}
+{ans}Old Stone age man:
+1. He was a nomad
+2. Took shelter on branches of trees, in holes and caves
+3. Wore dresses made out of leaves, skin of animals and barks of trees
+4. Ate vegetables, fruits and roots which he gathered from jungles
+5. Not civilized
+
+Present-day man:
+1. Settled in villages and towns
+2. Lives in well-built houses
+3. Wears dresses made out of cotton and other materials
+4. Eats all kinds of food grains
+5. Well civilized{ans}
