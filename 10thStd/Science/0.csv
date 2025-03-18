@@ -1,12 +1,12 @@
 Question Type,Question,Options,Answer
-Choose the Correct Answer,Inertia of a body depends on:,"(a) weight of the object, (b) acceleration due to gravity of the planet, (c) mass of the object, (d) both (a) & (b)",(c) mass of the object
-Choose the Correct Answer,Impulse is equals to _______,"(a) rate of change of momentum, (b) rate of force and time, (c) change of momentum, (d) rate of change of mass.",(c) change of momentum
-Choose the Correct Answer,Newton's III law is applicable:,"(a) for a body is at rest, (b) for a body in motion, (c) both (a) & (b), (d) only for bodies with equal masses",(b) for a body in motion
-Choose the Correct Answer,Plotting a graph for momentum on the X-axis and time on Y-axis. Slope of momentum – time graph gives _______,"(a) Impulsive force, (b) Acceleration, (c) Force, (d) Rate of force.",(c) Force
-Choose the Correct Answer,In which of the following sport the turning effect of force is used?,"(a) swimming, (b) tennis, (c) cycling, (d) hockey",(c) cycling
+Choose the Correct Answer,Inertia of a body depends on:,(a) weight of the object,(b) acceleration due to gravity of the planet,(c) mass of the object,(d) both (a) & (b),(c) mass of the object
+Choose the Correct Answer,Impulse is equals to _______:,(a) rate of change of momentum,(b) rate of force and time,(c) change of momentum,(d) rate of change of mass,(c) change of momentum
+Choose the Correct Answer,Newton's III law is applicable:,(a) for a body is at rest,(b) for a body in motion,(c) both (a) & (b),(d) only for bodies with equal masses,(b) for a body in motion
+Choose the Correct Answer,Plotting a graph for momentum on the X-axis and time on Y-axis. Slope of momentum – time graph gives _______:,(a) Impulsive force,(b) Acceleration,(c) Force,(d) Rate of force,(c) Force
+Choose the Correct Answer,In which of the following sport the turning effect of force is used?,(a) swimming,(b) tennis,(c) cycling,(d) hockey,(c) cycling
 Fill in the Blanks,To produce a displacement __________ is required.,,force
 Fill in the Blanks,Passengers lean forward when the sudden brake is applied in a moving vehicle. This can be explained by __________.,,inertia
-Fill in the Blanks,By convention the clockwise moments are taken as _________ and the anticlockwise moments are taken as _________.,,"negative, positive"
+Fill in the Blanks,By convention the clockwise moments are taken as _________ and the anticlockwise moments are taken as _________.,,negative, positive
 Fill in the Blanks,_________ is used to change the speed of the car.,,Accelerator
 Fill in the Blanks,A man of mass 100 kg has a weight of _________ at the surface of the Earth.,,980 N
 True or False,The linear momentum of a system of particles is always conserved.,,False
@@ -19,7 +19,7 @@ Answer Briefly,What is statics?,,Statics deals with the bodies which are at rest
 Answer Briefly,What is dynamics?,,Dynamics is the study of moving bodies under the action of forces.
 Answer Briefly,What is Kinematics?,,Kinematics deals with the motion of bodies without considering the cause of motion.
 Answer Briefly,What is Kinetics?,,Kinetics deals with the motion of bodies considering the cause of motion.
-Answer Briefly,Define momentum. State its unit.,,The product of mass and velocity of a moving body gives the magnitude of linear momentum. It acts in the direction of the velocity of the object. Its S.I unit is kg ms-1.
-Answer in Detail,State the effects of force.,"1. Produces or tries to produce the motion of a static body.
-2. Stops or tries to stop a moving body.
-3. Changes or tries to change the direction of motion of a moving body."
+Answer in Detail,Define momentum and state its unit.,,"The product of mass and velocity of a moving body gives the magnitude of linear momentum. It acts in the direction of the velocity of the object. Its S.I unit is kg ms-1."
+Answer in Detail,Explain the inherent property of inertia and its classifications.,,"The inherent property of a body to resist any change in its state of rest or the state of uniform motion, unless it is influenced upon by an external unbalanced force, is known as 'inertia'. It can be classified into: 1. Inertia of rest, 2. Inertia of motion, 3. Inertia of direction."
+Answer in Detail,State the effects of force.,,"1. Produces or tries to produce the motion of a static body. 2. Stops or tries to stop a moving body. 3. Changes or tries to change the direction of motion of a moving body."
+Answer in Detail,State and explain principle of moments.,,"When a number of like or unlike parallel forces act on a rigid body and the body is in equilibrium, then the algebraic sum of the moments in the clockwise direction is equal to the algebraic sum of the moments in the anticlockwise direction. In other words, at equilibrium, the algebraic sum of the moments of all the individual forces about any point is equal to zero."
