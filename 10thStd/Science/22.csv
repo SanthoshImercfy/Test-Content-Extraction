@@ -1,0 +1,21 @@
+Question Type,Question,Options,Answer
+Choose the Correct Answer,Which of the following is not a data type in Visual Basic?,(a) Integer--(b) String--(c) Float--(d) Boolean,(c) Float
+Choose the Correct Answer,What is the extension of Visual Basic project file?,(a) .vb--(b) .vbp--(c) .frm--(d) .exe,(b) .vbp
+Choose the Correct Answer,Which control is used to display a list of items?,(a) TextBox--(b) ComboBox--(c) Label--(d) CommandButton,(b) ComboBox
+Choose the Correct Answer,What is the default property of Label control?,(a) Text--(b) Caption--(c) Name--(d) Value,(b) Caption
+Choose the Correct Answer,Which event occurs when a form is loaded?,(a) Load--(b) Click--(c) Change--(d) Unload,(a) Load
+Fill in the Blanks,Visual Basic is a _______ programming language.,visual
+Fill in the Blanks,The _______ window contains all the controls in Visual Basic.,toolbox
+Fill in the Blanks,The _______ property is used to change the background color of a form.,backcolor
+Fill in the Blanks,_______ is used to store text in Visual Basic.,string
+Fill in the Blanks,The _______ statement is used to declare variables in Visual Basic.,dim
+True or False,Visual Basic is an object-oriented programming language.,True
+True or False,Form is a container for other controls.,True
+True or False,Variables must be declared before using them in Visual Basic.,True
+True or False,The Click event occurs when a button is pressed.,True
+True or False,Visual Basic can create standalone executable files.,True
+Answer Briefly,What is Visual Basic?,Visual Basic is a programming language and development environment created by Microsoft that allows developers to create Windows applications using a visual interface.
+Answer Briefly,What is an event in Visual Basic?,An event is an action that is recognized by an object such as a mouse click button press or form load.
+Answer Briefly,What is a control in Visual Basic?,A control is a graphical object placed on a form to enable or enhance user interaction with the application.
+Answer in Detail,Explain different types of controls in Visual Basic.,Types of controls in Visual Basic: 1. TextBox: For text input 2. Label: To display text 3. CommandButton: To perform actions 4. ComboBox: To display list of items 5. CheckBox: For yes/no selections 6. RadioButton: For mutually exclusive options 7. ListBox: To display multiple items 8. PictureBox: To display images.
+Answer in Detail,Describe the process of creating a simple application in Visual Basic.,Steps to create a Visual Basic application: 1. Start Visual Basic and create a new project 2. Design the form by adding required controls 3. Set properties of form and controls 4. Write code for events 5. Test the application 6. Debug if necessary 7. Create executable file. Important aspects include proper naming of controls proper event handling and error management.
