@@ -19,7 +19,27 @@ Answer Briefly,What is statics?,,Statics deals with the bodies which are at rest
 Answer Briefly,What is dynamics?,,Dynamics is the study of moving bodies under the action of forces.
 Answer Briefly,What is Kinematics?,,Kinematics deals with the motion of bodies without considering the cause of motion.
 Answer Briefly,What is Kinetics?,,Kinetics deals with the motion of bodies considering the cause of motion.
-Answer in Detail,Define momentum and state its unit.,,"The product of mass and velocity of a moving body gives the magnitude of linear momentum. It acts in the direction of the velocity of the object. Its S.I unit is kg ms-1."
-Answer in Detail,Explain the inherent property of inertia and its classifications.,,"The inherent property of a body to resist any change in its state of rest or the state of uniform motion, unless it is influenced upon by an external unbalanced force, is known as 'inertia'. It can be classified into: 1. Inertia of rest, 2. Inertia of motion, 3. Inertia of direction."
-Answer in Detail,State the effects of force.,,"1. Produces or tries to produce the motion of a static body. 2. Stops or tries to stop a moving body. 3. Changes or tries to change the direction of motion of a moving body."
-Answer in Detail,State and explain principle of moments.,,"When a number of like or unlike parallel forces act on a rigid body and the body is in equilibrium, then the algebraic sum of the moments in the clockwise direction is equal to the algebraic sum of the moments in the anticlockwise direction. In other words, at equilibrium, the algebraic sum of the moments of all the individual forces about any point is equal to zero."
+Answer in Detail,What are the types of inertia? Give an example for each type.,,"(i) Inertia of rest: The resistance of a body to change its state of rest is called inertia of rest. E.g.: When you vigorously shake the branches of a tree, some of the leaves and fruits are detached and they fall down.
+(ii) Inertia of motion: The resistance of a body to change its state of motion is called inertia of motion. E.g.: An athlete runs some distance before jumping. Because, this will help him jump longer and higher.
+(iii) Inertia of direction: The resistance of a body to change its direction of motion is called inertia of direction. E.g.: When you make a sharp turn while driving a car, you tend to lean sideways."
+Answer in Detail,State Newton's laws of motion.,,"(i) Newton's First Law: Every body continues to be in its state of rest or the state of uniform motion along a straight line unless it is acted upon by some external force.
+(ii) Newton's Second Law: The force acting on a body is directly proportional to the rate of change of linear momentum of the body and the change in momentum takes place in the direction of the force.
+(iii) Newton's Third Law: For every action, there is an equal and opposite reaction. They always act on two different bodies."
+Answer in Detail,Deduce the equation of a force using Newton's second law of motion.,,"Let, 'm' be the mass of a moving body, moving along a straight line with an initial speed u. After a time interval of 't', the velocity of the body changes to v due to the impact of an unbalanced external force F.
+Initial momentum of the body Pi = mu
+Final momentum of the body Pf = mv
+Change in momentum Δp = Pf - Pi = mv - mu
+By Newton's second law of motion, Force, F ∝ rate of change of momentum
+F ∝ change in momentum / time
+F ∝ (mv-mu)/t
+F = km(v-u)/t
+Here, k is the proportionality constant. k = 1 in all systems of units. Hence,
+F = m(v-u)/t
+Since, acceleration = change in velocity/time, a = (v - u)/t.
+Hence, we have F = m × a
+Force = mass × acceleration"
+Answer in Detail,Explain the types of forces.,,"Based on the direction in which the forces act, they can be classified into two types:
+1. Like parallel forces: Two or more forces of equal or unequal magnitude acting along the same direction, parallel to each other are called like parallel forces.
+2. Unlike parallel forces: If two or more equal forces or unequal forces act along opposite directions parallel to each other, then they are called unlike parallel forces."
+Answer in Detail,Explain the applications of torque.,,"1. Gears: A gear is a circular wheel with teeth around its rim. It helps to change the speed of rotation of a wheel by changing the torque and helps to transmit power.
+2. Steering Wheel: A small steering wheel enables you to manoeuvre a car easily by transferring a torque to the wheels with less effort."
