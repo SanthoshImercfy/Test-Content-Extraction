@@ -1,0 +1,103 @@
+{quesType}Choose the Correct Answer{quesType}
+
+{ques}Inertia of a body depends on:
+-- weight of the object
+-- acceleration due to gravity of the planet
+-- mass of the object
+-- both (a) & (b){ques}
+{ans}mass of the object{ans}
+{next}
+
+{ques}Impulse is equals to _______:
+-- rate of change of momentum
+-- rate of force and time
+-- change of momentum
+-- rate of change of mass{ques}
+{ans}change of momentum{ans}
+{next}
+
+{ques}Newton's III law is applicable:
+-- for a body is at rest
+-- for a body in motion
+-- both (a) & (b)
+-- only for bodies with equal masses{ques}
+{ans}for a body in motion{ans}
+{next}
+
+{ques}Plotting a graph for momentum on the X-axis and time on Y-axis. Slope of momentum – time graph gives _______:
+-- Impulsive force
+-- Acceleration
+-- Force
+-- Rate of force{ques}
+{ans}Force{ans}
+{next}
+
+{ques}In which of the following sport the turning effect of force is used?
+-- swimming
+-- tennis
+-- cycling
+-- hockey{ques}
+{ans}cycling{ans}
+
+{quesType}True or False{quesType}
+
+{ques}The linear momentum of a system of particles is always conserved.{ques}
+{ans}False{ans}
+{next}
+
+{ques}Apparent weight of a person is always equal to his actual weight.{ques}
+{ans}False{ans}
+{next}
+
+{ques}Weight of a body is greater at the equator and less at the polar region.{ques}
+{ans}False{ans}
+{next}
+
+{ques}Turning a nut with a spanner having a short handle is so easy than one with a long handle.{ques}
+{ans}False{ans}
+{next}
+
+{ques}There is no gravity in the orbiting space station around the Earth. So the astronauts feel weightlessness.{ques}
+{ans}False{ans}
+
+{quesType}Fill in the Blanks{quesType}
+
+{ques}To produce a displacement __________ is required.{ques}
+{ans}force{ans}
+{next}
+
+{ques}Passengers lean forward when the sudden brake is applied in a moving vehicle. This can be explained by __________.{ques}
+{ans}inertia{ans}
+{next}
+
+{ques}By convention the clockwise moments are taken as _________ and the anticlockwise moments are taken as _________.{ques}
+{ans}negative, positive{ans}
+{next}
+
+{ques}_________ is used to change the speed of the car.{ques}
+{ans}Accelerator{ans}
+{next}
+
+{ques}A man of mass 100 kg has a weight of _________ at the surface of the Earth.{ques}
+{ans}980 N{ans}
+
+{quesType}Answer Briefly{quesType}
+
+{ques}What is meant by mechanics? How can it be classified?{ques}
+{ans}Mechanics is the branch of physics that deals with the effect of force on bodies. It is divided into two branches namely statics and dynamics.{ans}
+{next}
+
+{ques}What is statics?{ques}
+{ans}Statics deals with the bodies which are at rest under the action of forces.{ans}
+{next}
+
+{ques}What is dynamics?{ques}
+{ans}Dynamics is the study of moving bodies under the action of forces.{ans}
+{next}
+
+{ques}What is Kinematics?{ques}
+{ans}Kinematics deals with the motion of bodies without considering the cause of motion.{ans}
+{next}
+
+{ques}What is Kinetics?{ques}
+{ans}Kinetics deals with the motion of bodies considering the cause of motion.{ans}
